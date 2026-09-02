@@ -5,7 +5,9 @@ A Machine Learning project that predicts whether a loan application is likely to
 This project includes data cleaning, exploratory data analysis, preprocessing, model training, model evaluation, real-time prediction, and a Streamlit web application.
 
 ---
+## 🌐 Live Demo
 
+https://sabbir-loan-approval-v2.streamlit.app
 ## 📌 Project Overview
 
 The goal of this project is to build a Machine Learning system that can analyze loan applicant information and predict the loan approval status.
