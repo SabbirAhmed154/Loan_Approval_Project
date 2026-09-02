@@ -1,0 +1,10 @@
+Model: Random Forest
+
+              precision    recall  f1-score   support
+
+    Rejected       0.99      0.96      0.97       140
+    Approved       0.91      0.97      0.94        60
+
+    accuracy                           0.96       200
+   macro avg       0.95      0.96      0.95       200
+weighted avg       0.96      0.96      0.96       200
